@@ -29,7 +29,7 @@ Key features:
 - Azure CLI installed
 - Terraform installed
 
-**Click here for terraform installation guide - tbc**
+[Click here for terraform installation guide](/install-terraform-azcli.md)
 
 ## A Terraform Deployment
 Below is a Terraform script for deploying two load balanced web servers. It may look overwhelming at first, but we'll break it down below. The script is written in Hashicorp Configuration Language (HCL) which is similar to JSON.
