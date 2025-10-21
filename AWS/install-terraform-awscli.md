@@ -13,6 +13,8 @@ To use Terraform you first need to install it and configure it by completing the
 
 Assuming you already have an account with your preferred cloud provider, in this example we'll use AWS, you need to download and install Terraform for your operating system, in this case we're using the CentOS VM.
 
+## Install TerraForm CLI
+
 Install required utilities:
 
 ```bash
@@ -36,6 +38,8 @@ Verify with:
 ```bash
 terraform -help
 ```
+
+## Install AWS CLI
 
 Although there are some third party tools with their own UI's, and the cloud providers may have their own online interfaces, Terraform is usually used through a CLI. Therefore, you should also install the CLI plugin for your chosen cloud provider.
 
