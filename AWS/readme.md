@@ -32,7 +32,7 @@ Key features:
 - AWS CLI installed
 - Terraform CLI installed
 
-[Click here for terraform installation guide](/install-terraform-awscli.md)
+[Click here for terraform installation guide](/AWS/install-terraform-awscli.md)
 
 ## A Terraform Deployment
 
